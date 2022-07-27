@@ -1,0 +1,10 @@
+.top {
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+    flex-shrink: 0;
+    max-height: 50px;
+}
+  nav {
+    margin-left: auto;
+  }
